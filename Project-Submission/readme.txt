@@ -1,0 +1,2 @@
+Please open the .ipynb file in the Jupyter Notebook from within the Main-Project folder because the required files are located in that folder.
+And do not forget to install the requirements.txt package in your virtual environment using the command "pip install -r requirements.txt".
